@@ -2,7 +2,7 @@
 Simplified Chinese (zh-CN) Translation for Project OutFox 5.3
 
 ## Status
-Current target version: Alpha 4.9.8
+Current target version: Alpha 4.9.9
 
 ## Additional Information
 ### English
