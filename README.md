@@ -2,7 +2,7 @@
 Simplified Chinese (zh-CN) Translation for Project OutFox 5.3
 
 ## Status
-Current target version: Alpha 4.9.9
+Current target version: Alpha 4.9.10
 
 ## Additional Information
 ### English
@@ -13,7 +13,7 @@ Header text is not translated for it will affect the header appearance.
 ### 中文
 当前版本中某些名词的翻译参考了SM5.0的\_fallback繁体中文翻译文件。某些词语可能未能较好地翻译，例如"Courses", "notes", "Notefield"等。<br>
 **暂定的翻译如下：**<br>
-Courses：歌曲系列<br>
+Courses：曲组<br>
 Group：分组/歌曲分组<br>
 note：音符<br>
 Notefield：音符区域<br><br>
