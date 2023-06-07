@@ -1,10 +1,10 @@
 # OutFox-zh-CN
 
-Simplified Chinese (zh-CN) Translation for Project OutFox 5.3
+Simplified Chinese (zh-CN) Translation for Project OutFox
 
 ## Status
 
-Current target version: Alpha 4.13.0
+Current target version: 0.4.19.0
 
 ## Additional Information
 
